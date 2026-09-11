@@ -2,19 +2,29 @@
 
 # 👩‍💻 AREEBA FATIMA
 
-### `MCA • Data Science`
+### `MCA • DATA SCIENCE • FINAL YEAR`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Data+Science+%7C+AI%2FML+%7C+AWS;Training+models+%7C+Exploring+data+%7C+Building+systems;Turning+data+into+intelligent+solutions+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=Data+Science+%7C+AI%2FML+%7C+AWS;Training+models+%7C+Exploring+data+%7C+Building+systems;Turning+data+into+intelligent+solutions+%E2%9C%A8;Learning+%E2%86%92+Building+%E2%86%92+Deploying+%E2%98%81%EF%B8%8F" />
 
 <br>
 
-<a href="https://github.com/areebaf29">
-<img src="https://img.shields.io/badge/GitHub-areebaf29-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/areeba-byte">
+<img src="https://img.shields.io/badge/GitHub-areeba--byte-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=areeba-byte&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `DATA` → `INTELLIGENCE` → `APPLICATION` → `CLOUD`
 
 </div>
 
@@ -23,19 +33,89 @@
 ## `$ whoami`
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  Areeba Fatima                                          │
-│                                                         │
-│  🎓 MCA — Data Science | Final Year                    │
-│                                                         │
-│  🤖 Exploring AI / Machine Learning                    │
-│  📊 Working with data, models & analytics               │
-│  ☁️  Learning cloud technologies with AWS              │
-│  🧠 Interested in building practical ML solutions       │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  Areeba Fatima                                               │
+│                                                              │
+│  🎓 MCA — Data Science | Final Year                         │
+│                                                              │
+│  🤖 Exploring AI / Machine Learning                         │
+│  📊 Working with data, models & analytics                    │
+│  ☁️  Learning cloud technologies with AWS                   │
+│  🧠 Interested in building practical ML solutions            │
+│                                                              │
+│  > Currently turning ideas into projects.                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
+
+I'm a final-year **MCA Data Science student** interested in **Data Science and AI/ML**.
+
+I enjoy working with data, experimenting with machine-learning models, and understanding how models can be transformed into practical applications.
+
+Currently expanding my skills in **AWS and cloud technologies**, while continuing to build projects around data, machine learning and software development.
+
+---
+
+# ⚡ CURRENTLY FOCUSED ON
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### 🤖
+
+**AI / ML**
+
+Model Training  
+Machine Learning  
+Model Evaluation
+
+</td>
+
+<td width="25%" align="center">
+
+### 📊
+
+**DATA**
+
+Data Analysis  
+EDA  
+Visualization
+
+</td>
+
+<td width="25%" align="center">
+
+### ☁️
+
+**CLOUD**
+
+AWS  
+Cloud Fundamentals  
+Deployment
+
+</td>
+
+<td width="25%" align="center">
+
+### 🛠️
+
+**BUILDING**
+
+Python  
+Applications  
+Projects
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -43,72 +123,385 @@
 
 <div align="center">
 
-### `01` — LANGUAGES
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 `LANGUAGES`
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
 
 <br><br>
 
-### `02` — DATA & AI
+`Python` · `Java` · `C++` · `C`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 `DATA & AI`
 
 <img src="https://skillicons.dev/icons?i=python" />
 
-<br>
-
-`NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `Jupyter`
-
 <br><br>
 
-### `03` — CLOUD & DEVELOPMENT
+`NumPy` · `Pandas` · `Matplotlib`
+
+`Scikit-learn` · `Jupyter`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ☁️ `CLOUD & DEVELOPMENT`
 
 <img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode" />
 
 <br><br>
 
-### `04` — DATABASES
+`AWS` · `Git` · `GitHub` · `Linux` · `VS Code`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗄️ `DATABASE`
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+
+<br><br>
+
+`MySQL` · `SQLite`
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
+# ⚙️ MY ML WORKFLOW
+
 <div align="center">
 
-### ⚙️ `HOW I BUILD`
+```text
+                         ┌──────────────┐
+                         │     DATA     │
+                         └──────┬───────┘
+                                │
+                                ▼
+                     ┌──────────────────┐
+                     │     CLEANING     │
+                     └────────┬─────────┘
+                              │
+                              ▼
+                     ┌──────────────────┐
+                     │       EDA        │
+                     └────────┬─────────┘
+                              │
+                              ▼
+                     ┌──────────────────┐
+                     │ MODEL TRAINING   │
+                     └────────┬─────────┘
+                              │
+                              ▼
+                     ┌──────────────────┐
+                     │    EVALUATION    │
+                     └────────┬─────────┘
+                              │
+                              ▼
+                     ┌──────────────────┐
+                     │   APPLICATION    │
+                     └────────┬─────────┘
+                              │
+                              ▼
+                     ┌──────────────────┐
+                     │    DEPLOYMENT    │
+                     └────────┬─────────┘
+                              │
+                              ▼
+                           ☁️ AWS
+```
+
+</div>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<h2 align="center">🎮 gamerIQ</h2>
+
+<p align="center">
+<b>Gaming Behaviour Analytics</b>
+</p>
+
+<p align="center">
+Machine-learning web application exploring gaming behaviour and generating player insights.
+</p>
+
+<p align="center">
+
+`Machine Learning`  
+`Python`  
+`Web Application`  
+`Database`
+
+</p>
+
+<p align="center">
+<a href="https://github.com/areeba-byte/gamerIQ">
+<img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h2 align="center">📈 SNITCH</h2>
+
+<p align="center">
+<b>Retail Sales Analytics</b>
+</p>
+
+<p align="center">
+Data analysis project focused on cleaning, exploring and extracting insights from fashion sales data.
+</p>
+
+<p align="center">
+
+`Data Cleaning`  
+`EDA`  
+`Analytics`  
+`Visualization`
+
+</p>
+
+<p align="center">
+<a href="https://github.com/areeba-byte/SNITCH">
+<img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h2 align="center">🔬 Cassendra</h2>
+
+<p align="center">
+<b>Forensic Investigation</b>
+</p>
+
+<p align="center">
+Database-oriented investigation project focused on organizing and analysing investigation data.
+</p>
+
+<p align="center">
+
+`Database`  
+`Data Management`  
+`Investigation`
+
+</p>
+
+<p align="center">
+<a href="https://github.com/areeba-byte/Cassendra_forensicinvestigation">
+<img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=areeba-byte&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areeba-byte&layout=compact&hide_border=true&theme=tokyonight" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=areeba-byte&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=areeba-byte&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/areeba-byte/areeba-byte/output/github-contribution-grid-snake-dark.svg" width="95%" />
+
+</div>
+
+---
+
+# 🌱 CURRENTLY LEARNING
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🤖 AI / ML
+
+Machine Learning  
+Model Training  
+Model Evaluation
+
+</td>
+
+<td align="center" width="33%">
+
+### 📊 DATA SCIENCE
+
+Data Analysis  
+EDA  
+Visualization
+
+</td>
+
+<td align="center" width="33%">
+
+### ☁️ CLOUD
+
+AWS  
+Cloud Fundamentals  
+Deployment
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+<div align="center">
+
+### `COMING SOON...`
+
+🏆 Hackathons &nbsp; • &nbsp; 📜 Certifications &nbsp; • &nbsp; 🚀 Milestones
+
+</div>
+
+---
+
+# 🔭 NEXT OBJECTIVE
+
+<div align="center">
 
 ```text
-                 ┌───────────────┐
-                 │      DATA     │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │   CLEANING    │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │      EDA      │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │  MODEL TRAIN  │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │   EVALUATE    │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │    DEPLOY     │
-                 └───────┬───────┘
-                         │
-                         ▼
-                    ☁️ AWS
+        ┌───────────────────────┐
+        │       DATA            │
+        └───────────┬───────────┘
+                    │
+                    ▼
+        ┌───────────────────────┐
+        │      AI / ML          │
+        └───────────┬───────────┘
+                    │
+                    ▼
+        ┌───────────────────────┐
+        │     APPLICATION       │
+        └───────────┬───────────┘
+                    │
+                    ▼
+        ┌───────────────────────┐
+        │       AWS ☁️          │
+        └───────────┬───────────┘
+                    │
+                    ▼
+        ┌───────────────────────┐
+        │   DEPLOYED SYSTEM     │
+        └───────────────────────┘
 ```
+
+### From experimenting with models → building deployable systems.
+
+</div>
+
+---
+
+# 💡 WHAT I BELIEVE
+
+<div align="center">
+
+> **Learn the theory.**
+>
+> **Build the project.**
+>
+> **Break the project.**
+>
+> **Understand why.**
+>
+> **Build it better.**
+
+</div>
+
+---
+
+# 🤝 LET'S CONNECT
+
+<div align="center">
+
+<a href="https://github.com/areeba-byte">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### `BUILD • LEARN • EXPERIMENT • REPEAT`
 
 </div>
