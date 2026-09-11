@@ -53,67 +53,71 @@
 
 # 🧠 TECH STACK
 
-### 💻 PROGRAMMING
+<div align="center">
 
-<p align="left">
+### `01` — LANGUAGES
+
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
-</p>
 
-### 📊 DATA SCIENCE & AI / ML
+<br><br>
 
-<p align="left">
+### `02` — DATA & AI
+
 <img src="https://skillicons.dev/icons?i=python" />
-</p>
 
-<p>
+<br>
 
-`NumPy` &nbsp; `Pandas` &nbsp; `Matplotlib` &nbsp; `Scikit-learn` &nbsp; `Jupyter`
+`NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `Jupyter`
 
-</p>
+<br><br>
 
-### ☁️ CLOUD & DEVELOPMENT
+### `03` — CLOUD & DEVELOPMENT
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode" />
-</p>
 
-### 🗄️ DATABASE
+<br><br>
 
-<p align="left">
+### `04` — DATABASES
+
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
+
+</div>
 
 ---
 
-### ⚙️ MY WORKFLOW
+<div align="center">
+
+### ⚙️ `HOW I BUILD`
 
 ```text
-        DATA
-          │
-          ▼
-   ┌──────────────┐
-   │   CLEANING   │
-   └──────┬───────┘
-          │
-          ▼
-   ┌──────────────┐
-   │     EDA      │
-   └──────┬───────┘
-          │
-          ▼
-   ┌──────────────┐
-   │  MODELING    │
-   └──────┬───────┘
-          │
-          ▼
-   ┌──────────────┐
-   │ EVALUATION   │
-   └──────┬───────┘
-          │
-          ▼
-   ┌──────────────┐
-   │  DEPLOYMENT  │
-   └──────┬───────┘
-          │
-          ▼
-       ☁️ AWS
+                 ┌───────────────┐
+                 │      DATA     │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │   CLEANING    │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │      EDA      │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │  MODEL TRAIN  │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │   EVALUATE    │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │    DEPLOY     │
+                 └───────┬───────┘
+                         │
+                         ▼
+                    ☁️ AWS
