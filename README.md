@@ -35,3 +35,15 @@
 │  🧠 Interested in building practical ML solutions       │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  Areeba Fatima                                          │
+│                                                         │
+│  🎓 MCA — Data Science | Final Year                    │
+│                                                         │
+│  🤖 Exploring AI / Machine Learning                    │
+│  📊 Working with data, models & analytics               │
+│  ☁️  Learning cloud technologies with AWS              │
+│  🧠 Interested in building practical ML solutions       │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
