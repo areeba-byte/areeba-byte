@@ -47,3 +47,73 @@
 │  🧠 Interested in building practical ML solutions       │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
+
+
+---
+
+# 🧠 TECH STACK
+
+### 💻 PROGRAMMING
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
+</p>
+
+### 📊 DATA SCIENCE & AI / ML
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+
+`NumPy` &nbsp; `Pandas` &nbsp; `Matplotlib` &nbsp; `Scikit-learn` &nbsp; `Jupyter`
+
+</p>
+
+### ☁️ CLOUD & DEVELOPMENT
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode" />
+</p>
+
+### 🗄️ DATABASE
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+---
+
+### ⚙️ MY WORKFLOW
+
+```text
+        DATA
+          │
+          ▼
+   ┌──────────────┐
+   │   CLEANING   │
+   └──────┬───────┘
+          │
+          ▼
+   ┌──────────────┐
+   │     EDA      │
+   └──────┬───────┘
+          │
+          ▼
+   ┌──────────────┐
+   │  MODELING    │
+   └──────┬───────┘
+          │
+          ▼
+   ┌──────────────┐
+   │ EVALUATION   │
+   └──────┬───────┘
+          │
+          ▼
+   ┌──────────────┐
+   │  DEPLOYMENT  │
+   └──────┬───────┘
+          │
+          ▼
+       ☁️ AWS
